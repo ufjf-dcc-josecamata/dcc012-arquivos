@@ -1,1 +1,5 @@
-# tutorial_arquivos_c_cpp
+Um pequeno exemplo de manipulação de arquivos binários 
+usando a linguagem C. 
+
+
+

@@ -9,4 +9,4 @@ Para a compilação em ambiente Unix/linux, use o comando:
 
 make
 
-./test
+./arq.exe

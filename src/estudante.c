@@ -58,7 +58,7 @@ Estudante* Estudante_Read(FILE *in)
     return est;
 }
 
-// Retorna tamanho do estionario em bytes
+// Retorna tamanho do Estudante em bytes
 int Estudante_Size() {
     return  sizeof(char)  * MAX_STR_NOME //nome
            + sizeof(char) * MAX_STR_MAT  // matricula

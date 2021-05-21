@@ -25,7 +25,7 @@ Para a compilação em ambiente Unix/linux, use o comando:
  - make
 - ./arq.exe
 
-## 📝 prucre saber mais...
+## 📝 procure saber mais...
 
 Converta esse código C usando a classes C++: fstream
 

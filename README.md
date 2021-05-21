@@ -9,7 +9,7 @@ Objetivo dessa atividade é praticar manipulaçao de arquivos em C/C++ 🚀
 Espera-se que ao final seja capaz de criar, editar, buscar informaçoes e fechar arquivos e compreender os principais conceitos por tras dessas açoes. 
 
 
-## Execute os arquivos de exemplo para:
+## Atividade :
 
 Apresentamos um pequeno exemplo de manipulação de arquivos binários 
 usando a linguagem C. Neste exemplo, 
@@ -25,7 +25,7 @@ Para a compilação em ambiente Unix/linux, use o comando:
  - make
 - ./arq.exe
 
-## 📝 procure saber mais...
+## 📝 Procure saber mais...
 
 Converta esse código C usando a classes C++: fstream
 

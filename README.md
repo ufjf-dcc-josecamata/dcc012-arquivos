@@ -13,23 +13,27 @@ Espera-se que ao final seja capaz de criar, editar, buscar informaçoes e fechar
 
 Apresentamos um pequeno exemplo de manipulação de arquivos binários 
 usando a linguagem C. Neste exemplo, 
-- criamos um arquivo
-- escrevemos e gravamos registros no arquivo
-- buscamos um registro dentro do arquivo
-- fechamos o arquivo
+1. criamos um arquivo
+2. escrevemos e gravamos registros no arquivo
+3. buscamos um registro dentro do arquivo
+4. fechamos o arquivo
 
 ### Compilação e Execução: 
 
 Para a compilação em ambiente Unix/linux, use o comando:
 
+ - cmake
  - make
-- ./arq.exe
+ - ./arq.exe
+
+
+## 📝 O que deve ser feito nessa atividade
+
+Implemente uma versão C++ usando fstream
+
+
 
 ## 📝 Procure saber mais...
-
-Converta esse código C usando a classes C++: fstream
-
-
 * Aprenda mais sobre criar documento README em: ["Managing Your Profile README"](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme).
 
 

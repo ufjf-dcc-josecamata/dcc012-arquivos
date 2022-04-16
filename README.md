@@ -1,4 +1,4 @@
-# Manipulando arquivos em C
+# Manipulando arquivos em C/c++
 
 # :wave: Manipulaçao de Arquivos 
 

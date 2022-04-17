@@ -22,7 +22,7 @@ typedef struct {
 void       Estudante_Imprime(Estudante *func);
 
 // Cria Estudante. Lembrar de usar free(funcionario)
-Estudante* Estudante_Create(char *nome, char *matricula, char *data_nascimento, int ano_ingresso);
+Estudante* Estudante_Create(const char *nome, const char *matricula, const char *data_nascimento, int ano_ingresso);
 
 // Salva Estudante no arquivo out, na posicao atual do cursor
 void       Estudante_Save(Estudante *func, FILE *out);

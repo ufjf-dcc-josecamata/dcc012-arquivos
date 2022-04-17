@@ -18,7 +18,7 @@ void Estudante_Imprime(Estudante *est) {
 }
 
 // Cria Estudante. Lembrar de usar free(est)
-Estudante* Estudante_Create(char *nome, char *matricula, char *data_nascimento, int ano_ingresso)
+Estudante* Estudante_Create(const char *nome, const char *matricula, const char *data_nascimento, int ano_ingresso)
 {
     Estudante *est = (Estudante *) malloc(sizeof(Estudante));
     

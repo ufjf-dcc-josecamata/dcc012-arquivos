@@ -1,0 +1,112 @@
+Inserindo 5 estudantes no arquivo...
+
+Lendo registros de estudantes do arquivo...
+
+**********************************************
+Estudante de Matricula: 0000000000
+Nome: Ana
+Data de Nascimento: 01/01/1980
+Ano de Ingresso: 2018
+**********************************************
+**********************************************
+Estudante de Matricula: 1111111111
+Nome: Carlos
+Data de Nascimento: 01/01/1990
+Ano de Ingresso: 2019
+**********************************************
+**********************************************
+Estudante de Matricula: 2222222222
+Nome: Fátima
+Data de Nascimento: 02/02/1990
+Ano de Ingresso: 2020
+**********************************************
+**********************************************
+Estudante de Matricula: 3333333333
+Nome: João
+Data de Nascimento: 03/03/1990
+Ano de Ingresso: 2019
+**********************************************
+**********************************************
+Estudante de Matricula: 4444444444
+Nome: Maria
+Data de Nascimento: 04/04/1990
+Ano de Ingresso: 2018
+**********************************************
+
+
+Lendo dados do estudante 2 do arquivo...
+
+**********************************************
+Estudante de Matricula: 1111111111
+Nome: Carlos
+Data de Nascimento: 01/01/1990
+Ano de Ingresso: 2019
+**********************************************
+
+
+Adicionando estudante no final do arquivo...
+
+
+
+Lendo dados do estudante 6 do arquivo...
+
+**********************************************
+Estudante de Matricula: 5555555555
+Nome: Bruna
+Data de Nascimento: 05/05/1981
+Ano de Ingresso: 2019
+**********************************************
+
+
+Sobrescrevendo  registro 4 do arquivo...
+
+
+
+Lendo dados do estudante 4 do arquivo...
+
+**********************************************
+Estudante de Matricula: 6666666666
+Nome: Catarina
+Data de Nascimento: 06/06/1990
+Ano de Ingresso: 2020
+**********************************************
+
+
+Lendo registros de estudantes do arquivo...
+
+**********************************************
+Estudante de Matricula: 0000000000
+Nome: Ana
+Data de Nascimento: 01/01/1980
+Ano de Ingresso: 2018
+**********************************************
+**********************************************
+Estudante de Matricula: 1111111111
+Nome: Carlos
+Data de Nascimento: 01/01/1990
+Ano de Ingresso: 2019
+**********************************************
+**********************************************
+Estudante de Matricula: 2222222222
+Nome: Fátima
+Data de Nascimento: 02/02/1990
+Ano de Ingresso: 2020
+**********************************************
+**********************************************
+Estudante de Matricula: 6666666666
+Nome: Catarina
+Data de Nascimento: 06/06/1990
+Ano de Ingresso: 2020
+**********************************************
+**********************************************
+Estudante de Matricula: 4444444444
+Nome: Maria
+Data de Nascimento: 04/04/1990
+Ano de Ingresso: 2018
+**********************************************
+**********************************************
+Estudante de Matricula: 5555555555
+Nome: Bruna
+Data de Nascimento: 05/05/1981
+Ano de Ingresso: 2019
+**********************************************

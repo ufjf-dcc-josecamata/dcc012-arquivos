@@ -1,17 +1,16 @@
 #ifndef ESTUDANTE_H_
 #define ESTUDANTE_H_
 
-
 #include <stdio.h>
 #include <stdlib.h>
-
 
 #define MAX_STR_NOME 50
 #define MAX_STR_MAT  11
 #define MAX_STR_DATA 11
 
 /*
-*/
+ *
+ */
 typedef struct {
      char nome[MAX_STR_NOME];
      char matricula[MAX_STR_MAT];
@@ -33,6 +32,7 @@ void       Estudante_Save(Estudante *func, FILE *out);
 Estudante* Estudante_Read(FILE *in);
 
 // Retorna tamanho do Estudante em bytes
-int Estudante_Size();
+int        Estudante_Size();
 
 #endif /* ESTUDANTE_H_ */
+

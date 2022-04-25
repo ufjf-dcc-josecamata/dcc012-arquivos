@@ -1,13 +1,10 @@
-# Manipulando arquivos em C/c++
+# Manipulando arquivos em C
 
 # :wave: Manipulaçao de Arquivos 
 
 ## 🤓 Resumo
 
-Objetivo dessa atividade é praticar manipulaçao de arquivos em C++ 🚀
-
-Espera-se que ao final seja capaz de criar, editar, buscar informaçoes e fechar arquivos e compreender os principais conceitos por tras dessas açoes. 
-
+Objetivo dessa material é demostrar a manipulaçao de arquivos em C 🚀
 
 ## Atividade :
 
@@ -22,15 +19,18 @@ usando a linguagem C. Neste exemplo,
 
 Para a compilação em ambiente Unix/linux, use o comando:
 
+Para gerar o build
  - cmake -B build
- - cd build
- - make
- - ./estud 
 
+Para compilar:
+ - cmake --build build 
+
+Para executar:
+ - ./build/estud
 
 ## 📝 O que deve ser feito nessa atividade
 
-Implementar uma versão C++ usando fstream
+Veja como arquivos binários são manipulados em C.
 
 ## 📝 Procure saber mais...
 

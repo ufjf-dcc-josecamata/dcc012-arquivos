@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ufjf-dcc-josecamata/dcc012-arquivos.git/HEAD)
+
 # Manipulando arquivos em C
 
 # :wave: Manipulaçao de Arquivos 
